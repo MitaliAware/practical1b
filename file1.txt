@@ -1,0 +1,4 @@
+my name = mitali
+class = te it 
+sub = wad
+i hate practical exams 
